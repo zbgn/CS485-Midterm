@@ -1,0 +1,9 @@
+('./font/',
+ './font/',
+ [],
+ 'DATA',
+ [('./font/typodermic-eula-02-2014.pdf',
+   './font/typodermic-eula-02-2014.pdf',
+   'DATA'),
+  ('./font/electroharmonix.ttf', './font/electroharmonix.ttf', 'DATA'),
+  ('./font/read-this.html', './font/read-this.html', 'DATA')])

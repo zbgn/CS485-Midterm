@@ -1,0 +1,12 @@
+('./img/',
+ './img/',
+ [],
+ 'DATA',
+ [('./img/.DS_Store', './img/.DS_Store', 'DATA'),
+  ('./img/MenuBG.jpg', './img/MenuBG.jpg', 'DATA'),
+  ('./img/stoneW.png', './img/stoneW.png', 'DATA'),
+  ('./img/stoneB.png', './img/stoneB.png', 'DATA'),
+  ('./img/ico.png', './img/ico.png', 'DATA'),
+  ('./img/Goban.jpg', './img/Goban.jpg', 'DATA'),
+  ('./img/gomoku.icns', './img/gomoku.icns', 'DATA'),
+  ('./img/gomoku.ico', './img/gomoku.ico', 'DATA')])

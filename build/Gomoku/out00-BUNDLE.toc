@@ -1,0 +1,3 @@
+([('Gomoku',
+   '/Users/gysco/CSUSM/CS485/CS485-Midterm/dist/Gomoku',
+   'EXECUTABLE')],)
